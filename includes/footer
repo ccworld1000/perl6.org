@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row">
       <section class="col-sm-6 col-md-5ths">
-        <h4><a href="/community/">Community</a></h4>
+        <h4><a href="/community/">社区</a></h4>
         <ul class="shush-list">
           <li><a href="/community/irc">#perl6 IRC channel</a>: <a href="irc://irc.freenode.net/%23perl6">system IRC client</a>
           or&nbsp;<a href="http://webchat.freenode.net/?channels=perl6&amp;nick=">chat live in your browser</a></li>
@@ -16,7 +16,7 @@
       </section>
 
       <section class="col-sm-6 col-md-5ths">
-        <h4><a href="/resources/">Resources</a></h4>
+        <h4><a href="/resources/">资源</a></h4>
         <ul class="shush-list">
           <li><a href="/getting-started/">Getting started</a></li>
           <li><a href="https://docs.perl6.org/">Perl&nbsp;6 Documentation</a></li>
@@ -27,7 +27,7 @@
       </section>
 
       <section class="col-sm-6 col-md-5ths">
-        <h4><a href="https://modules.perl6.org/">Modules</a></h4>
+        <h4><a href="https://modules.perl6.org/">模块</a></h4>
 
         <ul class="shush-list">
           <li><a href="https://modules.perl6.org/">Perl&nbsp;6 modules
@@ -40,7 +40,7 @@
       </section>
 
       <section class="col-sm-6 col-md-5ths">
-        <h4><a href="/compilers/">Compilers</a></h4>
+        <h4><a href="/compilers/">编译器</a></h4>
         <ul class="shush-list">
             <li><a href="http://rakudo.org/">Rakudo</a>, a compiler running on
                 <a href="http://moarvm.com/">MoarVM</a>,
@@ -50,7 +50,7 @@
       </section>
 
       <section class="col-sm-6 col-md-5ths">
-        <h4><a href="/specification/">Language Design</a></h4>
+        <h4><a href="/specification/">语言设计</a></h4>
         <ul class="shush-list">
           <li><a href="https://design.perl6.org/">Synopsis</a> - official Perl&nbsp;6 design documents</li>
         </ul>

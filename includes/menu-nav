@@ -25,9 +25,9 @@
         [% item modules <li id="nav-modules" {{ class="active"}}
           ><a href="https://modules.perl6.org/">模块</a></li> %]
         [% item fun <li id="nav-fun" {{ class="active"}}
-          ><a href="/fun/">乐趣</a></li> %]
+          ><a href="/fun/">喜闻乐见</a></li> %]
         [% item whatever <li id="nav-whatever"{{ class="active"}}
-          ><a href="/whatever/">无论什么</a></li> %]
+          ><a href="/whatever/">随便看看</a></li> %]
         [% item faq <li id="nav-faq"{{ class="active"}}
           ><a href="https://docs.perl6.org/language/faq">常见问题</a></li> %]
       </ul>

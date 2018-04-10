@@ -7,9 +7,9 @@
       <section class="col-sm-6 col-md-5ths">
         <h4><a href="/community/">社区</a></h4>
         <ul class="shush-list">
-          <li><a href="/community/irc">#perl6 IRC channel</a>: <a href="irc://irc.freenode.net/%23perl6">system IRC client</a>
-          or&nbsp;<a href="http://webchat.freenode.net/?channels=perl6&amp;nick=">chat live in your browser</a></li>
-          <li><a href="/community/rosettacode">Perl&nbsp;6 on Rosetta Code</a>, <a href="http://pl6anet.org/">Blogs</a></li>
+          <li><a href="/community/irc">#perl6 IRC 频道</a>: <a href="irc://irc.freenode.net/%23perl6">system IRC 客户端</a>
+          或者&nbsp;<a href="http://webchat.freenode.net/?channels=perl6&amp;nick=">浏览器聊天室</a></li>
+          <li><a href="/community/rosettacode">Perl&nbsp;6 on Rosetta Code</a>, <a href="http://pl6anet.org/">博客</a></li>
         </ul>
 
         <a href="/community/" class="btn btn-success">更多</a>
@@ -18,9 +18,9 @@
       <section class="col-sm-6 col-md-5ths">
         <h4><a href="/resources/">资源</a></h4>
         <ul class="shush-list">
-          <li><a href="/getting-started/">Getting started</a></li>
-          <li><a href="https://docs.perl6.org/">Perl&nbsp;6 Documentation</a></li>
-          <li><a href="https://docs.perl6.org/language/5to6">Perl&nbsp;5 to Perl 6</a>,
+          <li><a href="/getting-started/">入门</a></li>
+          <li><a href="https://docs.perl6.org/">Perl&nbsp;6 文档</a></li>
+          <li><a href="https://docs.perl6.org/language/5to6">Perl&nbsp;5 到 Perl 6</a>,
               an introduction for Perl&nbsp;5 programmers</li>
         </ul>
           <a href="/resources/" class="btn btn-success">更多</a>
@@ -30,10 +30,10 @@
         <h4><a href="https://modules.perl6.org/">模块</a></h4>
 
         <ul class="shush-list">
-          <li><a href="https://modules.perl6.org/">Perl&nbsp;6 modules
+          <li><a href="https://modules.perl6.org/">Perl&nbsp;6 模块
               directory</a></li>
           <li><a href="https://modules.perl6.org/dist/zef:github">Zef</a> Perl&nbsp;6
-              module manager</li>
+              模块管理器</li>
         </ul>
 
         <a href="https://modules.perl6.org/" class="btn btn-success">更多</a>
@@ -42,9 +42,9 @@
       <section class="col-sm-6 col-md-5ths">
         <h4><a href="/compilers/">编译器</a></h4>
         <ul class="shush-list">
-            <li><a href="http://rakudo.org/">Rakudo</a>, a compiler running on
+            <li><a href="http://rakudo.org/">Rakudo</a>, 基于
                 <a href="http://moarvm.com/">MoarVM</a>,
-                 the JVM and other backends.</li>
+                JVM 与其他后端的编译器.</li>
         </ul>
         <a href="/compilers/" class="btn btn-success">更多</a>
       </section>

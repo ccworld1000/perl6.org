@@ -42,9 +42,9 @@
 
 ##### 微信支付
 
-<img src="CCPay/CCWechat.png" width="36%"/>
+<img src="CCPay/CCWechat.png" width="30%"/>
 
 
 ##### 支付宝支付
 
-<img src="CCPay/CCAlipay.png" width="36%"/>
+<img src="CCPay/CCAlipay.png" width="30%"/>

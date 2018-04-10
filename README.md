@@ -42,10 +42,9 @@
 
 ##### 微信支付
 
-![CCWechat](CCPay/CCWechat.png)
-
+<img src="CCPay/CCWechat.png" width="36%"/>
 
 
 ##### 支付宝支付
 
-![CCAlipay](CCPay/CCAlipay.png)
+<img src="CCPay/CCAlipay.png" width="36%"/>

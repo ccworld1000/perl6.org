@@ -24,6 +24,12 @@
 
 
 
+##### 已翻译入口
+
+> [P6官方中文文档入口1](https://github.com/ccworld1000/doc/blob/master/README.zh.md) 或者 [P6官方中文文档入口2](https://github.com/perl6/doc/blob/master/README.zh.md)
+
+
+
 ##### 贡献本数据仓
 
 > ​	如果想帮忙可以fork  [https://github.com/ccworld1000/perl6.org](https://github.com/ccworld1000/perl6.org),帮助形式不限.
@@ -40,11 +46,11 @@
 
 
 
-##### 微信支付
+##### 微信赞赏
 
 <img src="CCPay/CCWechat.png" width="30%"/>
 
 
-##### 支付宝支付
+##### 支付宝赞赏
 
 <img src="CCPay/CCAlipay.png" width="30%"/>

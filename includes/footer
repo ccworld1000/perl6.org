@@ -20,8 +20,8 @@
         <ul class="shush-list">
           <li><a href="/getting-started/">入门</a></li>
           <li><a href="https://docs.perl6.org/">Perl&nbsp;6 文档</a></li>
-          <li><a href="https://docs.perl6.org/language/5to6">Perl&nbsp;5 到 Perl 6</a>,
-              an introduction for Perl&nbsp;5 programmers</li>
+          <li><a href="https://docs.perl6.org/language/5to6">由Perl&nbsp;5 到 Perl 6</a>,
+              Perl&nbsp;5 程序员指引</li>
         </ul>
           <a href="/resources/" class="btn btn-success">更多</a>
       </section>

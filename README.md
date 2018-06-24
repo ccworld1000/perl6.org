@@ -39,6 +39,8 @@
 ##### 已翻译入口
 
 > [P6官方中文文档入口1](https://github.com/ccworld1000/doc/blob/master/README.zh.md) 或者 [P6官方中文文档入口2](https://github.com/perl6/doc/blob/master/README.zh.md)
+>
+> 翻译当前进度：大致入口翻译已经完毕，可以下载到本地运行。
 
 
 

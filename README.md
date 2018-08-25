@@ -26,7 +26,7 @@
 
 ##### 翻译进度
 
-> ​        网站主体入口差不多翻译接近完成。
+> ​        网站主体入口差不多翻译完成。
 >
 > doc模块[https://github.com/ccworld1000/doc](https://github.com/ccworld1000/doc)还没有咋开始。
 >
